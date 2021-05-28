@@ -5,3 +5,5 @@ Notepad using applet basic notepad version.
 
 # * To use Install jdk 1.8.x 
 # * For IDE you can use eclipse photon and below version.
+
+# Here You can get guide to run applet -> <a href="https://javaprogramingz.blogspot.com/2021/05/how-to-install-java-for-applets.html"> click here </a>
